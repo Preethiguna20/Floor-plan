@@ -18,7 +18,7 @@ from PIL import Image
 import io
 
 # Configure Gemini API
-api_key = "AIzaSyAtyr0rXjXTFPEUpV-AzREDHjdLO16zQhU"  # Replace with your API key
+api_key = " "  # Replace with your API key
 genai.configure(api_key=api_key)
 
 # Load Gemini Vision Model
@@ -152,7 +152,7 @@ from PIL import Image
 from wmill import task
 
 # Configure Gemini API
-api_key = "AIzaSyAtyr0rXjXTFPEUpV-AzREDHjdLO16zQhU"  # Replace with your API key
+api_key = " "  # Replace with your API key
 genai.configure(api_key=api_key)
 
 # Load Gemini Vision Model
