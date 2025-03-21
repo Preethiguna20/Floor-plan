@@ -1,6 +1,7 @@
 -------------------------------------------------------------------------------
 #extract room information
 --------------------------------------------------------------------------------
+# input url : https://drive.google.com/file/d/1BFI-uosY1GPbk_IgjCCZHloAX9tTt0dt/view?usp=sharing
 
 #requirements:
 #google-generativeai
